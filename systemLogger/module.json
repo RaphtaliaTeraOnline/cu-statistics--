@@ -1,0 +1,9 @@
+{
+    "disableAutoUpdate": true,
+    "name": "systemLogger",
+    "author": "1",
+    "description": "Tera Toolbox module for logging.",
+    "options": {
+        "niceName": "systemLogger"
+    }
+}
